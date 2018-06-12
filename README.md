@@ -1,13 +1,4 @@
-# blockchain
-This is the repo containing references to all my blockchain work, notes etc.
-
-
-# EthList: The Crowdsourced Ethereum Reading List</p>
-### Found a great resource? Add it by submitting a Pull Request!
-
-Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
-
-<a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Tweet about this list!</a>
+# Blockchain: My Work On Blockchain</p>
 
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
