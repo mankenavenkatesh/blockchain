@@ -16,7 +16,7 @@
 #### Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
-#### My Notes
+#### My Writings
 - [Transactions in Bitcoin and Ethereum](https://medium.com/@mankenavenkatesh/transactions-in-bitcoin-and-ethereum-58fdcbbb8a26)
 
 #### References
