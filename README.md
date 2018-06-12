@@ -16,3 +16,6 @@
 #### Dapps Developed
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 - [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
+
+#### References
+- [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
