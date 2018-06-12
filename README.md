@@ -22,3 +22,4 @@
 
 #### References
 - [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
+- [A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack](https://github.com/yippee-ki-yay/eth-dev-reading-list)
