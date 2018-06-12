@@ -3,9 +3,9 @@
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
 
 
-## Introduction
+## Ethereum
 
-#### Simple explanations of Ethereum
+#### Trainings
 - [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
 - [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 - [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
@@ -30,7 +30,7 @@
 - [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
 - [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 
-#### Deeper explanations of Ethereum
+#### Solidity Contracts
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
@@ -43,7 +43,7 @@
 - [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779)
 - [Full Ethereum Syllabus with Detailed Summaries and Resources](https://novicedock.com/learn/cryptocurrency/ethereum)
 
-#### History Articles:
+#### Dapps Developed
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 - [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
