@@ -1,4 +1,4 @@
-# Blockchain: My Work On Blockchain</p>
+# My Work On Blockchain</p>
 
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
