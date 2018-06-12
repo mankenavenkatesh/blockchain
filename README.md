@@ -15,10 +15,9 @@
 
 #### Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
-- [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 
 #### My Notes
-- [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
+- [Medium Writings](https://github.com/mankenavenkatesh/EthList)
 
 #### References
 - [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
