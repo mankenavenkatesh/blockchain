@@ -1,7 +1,6 @@
 # My Work On Blockchain</p>
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 
 ## Introduction
