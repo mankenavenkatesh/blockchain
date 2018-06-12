@@ -6,8 +6,8 @@
 ## Ethereum
 
 #### My Solidity Contracts
-- [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
-- [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+- [Learn Solidity Basics With Examples](https://github.com/mankenavenkatesh/learning-solidity)
+- [Solidity Patterns and Best practices](https://github.com/mankenavenkatesh/Solidity-patterns)
 
 #### My Dapps
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
