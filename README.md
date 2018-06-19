@@ -9,6 +9,7 @@
 - [Learn Solidity Basics With Examples](https://github.com/mankenavenkatesh/learning-solidity)
 - [Solidity Patterns and Best practices](https://github.com/mankenavenkatesh/Solidity-patterns)
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
+- [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
 #### My Dapps
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
