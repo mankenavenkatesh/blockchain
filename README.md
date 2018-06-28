@@ -13,7 +13,7 @@
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
 #### My Dapps
-- [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-application-architectures)
+- [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
 - [My Dapps](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 #### My Trainings
