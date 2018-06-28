@@ -13,7 +13,7 @@
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
 #### My Dapps
-- [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
+- [Different Blockchain Applications and their architectures](https://github.com/mankenavenkatesh/blockchain-application-architectures)
 - [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 #### My Trainings
