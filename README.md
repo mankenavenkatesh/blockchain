@@ -14,7 +14,7 @@
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-application-architectures)
-- [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
+- [My Dapps](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
