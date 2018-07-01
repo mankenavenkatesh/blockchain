@@ -13,7 +13,7 @@
 - [Solidity Golf challenge](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Solidity-golf-challenge)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
-#### Consensys Mesh tools kick-starters
+#### Consensys Mesh kick-starters
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
 
 #### My Dapps
