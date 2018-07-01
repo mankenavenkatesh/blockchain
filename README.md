@@ -9,6 +9,7 @@
 - [Learn Solidity Basics With Examples](https://github.com/mankenavenkatesh/learning-solidity)
 - [Solidity Patterns and Best practices](https://github.com/mankenavenkatesh/Solidity-patterns)
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Standard-Contract-Types)
+- [Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
