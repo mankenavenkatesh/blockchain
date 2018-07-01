@@ -5,11 +5,13 @@
 
 ## Ethereum
 
-#### My Solidity Contracts
+#### My Solidity Learnings
 - [Learn Solidity Basics With Examples](https://github.com/mankenavenkatesh/learning-solidity)
 - [Solidity Patterns and Best practices](https://github.com/mankenavenkatesh/Solidity-patterns)
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/Standard-Smart-Contracts)
 - [Solidity Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
+
+#### My Solidity Contracts
 - [Solidity Golf challenge](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Solidity-golf-challenge)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
