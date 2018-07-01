@@ -10,9 +10,11 @@
 - [Solidity Patterns and Best practices](https://github.com/mankenavenkatesh/Solidity-patterns)
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/Standard-Smart-Contracts)
 - [Solidity Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
-- [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
 - [Solidity Golf challenge](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Solidity-golf-challenge)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
+
+#### Consensys Mesh tools kick-starters
+- [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
