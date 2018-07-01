@@ -14,7 +14,7 @@
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
 #### My Consensys Mesh kick-starters
-- [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
+- [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/truffle-kick-starter)
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
