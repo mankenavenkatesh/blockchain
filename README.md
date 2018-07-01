@@ -11,6 +11,7 @@
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Standard-Contract-Types)
 - [Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/DemoContract)
+- [Solidity Golf challenge](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Solidity-golf-challenge)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
 
 #### My Dapps
