@@ -15,6 +15,7 @@
 
 #### My Consensys Mesh kick-starters
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/truffle-kick-starter)
+- [Simple Demo Contract Using uPort](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/uport-kick-starter)
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
