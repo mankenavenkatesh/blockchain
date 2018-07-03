@@ -15,7 +15,7 @@
 #### My Consensys Mesh kick-starters
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/truffle-kick-starter)
 - [Simple Demo DApp Using truffle, Plain html, uPort](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/uport-kick-starter)
-- [Simple Demo Dapp using truffle, ganache, metamask, plain html](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/metamask-kick-starter)
+- [Simple Demo Dapp using truffle, ganache, metamask, webpack plain html](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/truffle-webpack-dapp-kick-starter)
 
 
 
