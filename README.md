@@ -26,7 +26,7 @@
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
-- [My Dapps](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
+- [MultiSig Wallet Dapp End to End](https://github.com/mankenavenkatesh/MultisigWalletDapp)
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
