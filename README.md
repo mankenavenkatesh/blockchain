@@ -27,6 +27,7 @@
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
 - [MultiSig Wallet Dapp End to End](https://github.com/mankenavenkatesh/MultisigWalletDapp)
+- [Register Domain on Ethereum Using ENS](https://github.com/mankenavenkatesh/MultisigWalletDapp)
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
