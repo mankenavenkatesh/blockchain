@@ -27,7 +27,7 @@
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
 - [MultiSig Wallet Dapp End to End](https://github.com/mankenavenkatesh/MultisigWalletDapp)
-- [Dapp which Generate Verified Resume. Build Reputation System.](https://github.com/mankenavenkatesh/udyog)
+- [Udyog - Dapp which Generates Verified Resume with Reputation System.](https://github.com/mankenavenkatesh/udyog)
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
