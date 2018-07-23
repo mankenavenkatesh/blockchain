@@ -23,6 +23,8 @@
 #### My Solidity Contracts
 - [Solidity Golf challenge](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/Solidity-golf-challenge)
 - [Quote Registry Contract - Ownership of Quotes](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/QuoteRegistry)
+- [Delegated Voting](https://github.com/mankenavenkatesh/My-Smart-Contracts/tree/master/BallotVoting)
+
 
 #### My Dapps
 - [Blockchain DApps and their architectures](https://github.com/mankenavenkatesh/blockchain-dapp-architectures)
