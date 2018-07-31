@@ -33,7 +33,8 @@
 
 #### Challenges building Dapps and Solutions
 - [Identity Management] - uPort example
-- [ofchain data storage] - oracles example
+- [ofchain data storage] - ipfs example
+- [publish data onto blockchain] - oracles
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
