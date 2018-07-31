@@ -31,6 +31,10 @@
 - [MultiSig Wallet Dapp End to End](https://github.com/mankenavenkatesh/MultisigWalletDapp)
 - [Udyog - Dapp which Generates Verified Resume with Reputation System.](https://github.com/mankenavenkatesh/udyog)
 
+#### Challenges building Dapps and Solutions
+- [Identity Management] - uPort example
+- [ofchain data storage] - oracles example
+
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
