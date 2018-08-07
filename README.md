@@ -41,7 +41,7 @@
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
 #### My Learning of Ethereum protocol.
-- [Transactions in Bitcoin and Ethereum](https://medium.com/@mankenavenkatesh/transactions-in-bitcoin-and-ethereum-58fdcbbb8a26)
+- [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 #### My References
 - [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
