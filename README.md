@@ -31,17 +31,21 @@
 - [MultiSig Wallet Dapp End to End](https://github.com/mankenavenkatesh/MultisigWalletDapp)
 - [Udyog - Dapp which Generates Verified Resume with Reputation System.](https://github.com/mankenavenkatesh/udyog)
 
+
 #### Challenges building Dapps and Solutions
 - [Identity Management] - uPort example
 - [ofchain data storage] - ipfs example
 - [publish data onto blockchain] - oracles
 - [Interacting with blockchain] - web3, json-rpc
 
+
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
+
 #### My Learning of Ethereum protocol.
 - [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
+
 
 #### My References
 - [The Comprehensive Ethereum Reading List](https://github.com/mankenavenkatesh/EthList)
