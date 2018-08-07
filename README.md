@@ -43,7 +43,7 @@
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
 
-#### My Learning of Ethereum protocol.
+#### My Learnings of Ethereum protocol.
 - [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 
