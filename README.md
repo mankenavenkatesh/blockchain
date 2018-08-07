@@ -34,7 +34,7 @@
 
 #### Challenges building Dapps and Solutions
 - [Identity Management] - uPort example
-- [ofchain data storage] - ipfs example
+- [ofchain data storage] - https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e
 - [publish data onto blockchain] - oracles
 - [Interacting with blockchain] - web3, json-rpc
 
