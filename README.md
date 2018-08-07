@@ -39,12 +39,12 @@
 - [Interacting with blockchain] - web3, json-rpc
 
 
-#### My Trainings
-- [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
-
-
 #### My Learnings of Ethereum protocol.
 - [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
+
+
+#### My Trainings
+- [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
 
 #### My References
