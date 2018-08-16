@@ -12,8 +12,8 @@
 
 
 #### Challenges building Dapps and Solutions
-- [Identity Management] - (https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/uport-kick-starter)
-- [ofchain data storage] - (https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
+- [Identity Management](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/uport-kick-starter)
+- [ofchain data storage](https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
 - [publish data onto blockchain] - oracles
 - [Interacting with blockchain] - web3, json-rpc
 
