@@ -5,7 +5,7 @@
 ## Blockchain 
 - [Blockchain Platforms](https://github.com/mankenavenkatesh/blockchain-platforms)
 
-## Ethereum Dapp Challenges and Solutions
+## Ethereum 
 #### My Dapps
 - [CrowdLending - Blockchain based Crowd Lending and Borrowing Platform for Individuals, ICO's, Governments etc](https://github.com/mankenavenkatesh/CrowdLending)
 - [Udyog - Dapp which Generates Verified Resume with Reputation System.](https://github.com/mankenavenkatesh/udyog)
