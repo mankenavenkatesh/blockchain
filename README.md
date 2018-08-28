@@ -3,7 +3,8 @@
 | [Blockchain](#blockchain) | [Bitcoin](#Bitcoin) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
 
 ## Blockchain 
-- [Blockchain Platforms](https://github.com/mankenavenkatesh/blockchain-platforms)
+- [white papers] (https://whitepaperdatabase.com/)
+- [Blockchain Platforms analysis](https://github.com/mankenavenkatesh/blockchain-platforms)
 
 ## Ethereum 
 #### My Dapps
