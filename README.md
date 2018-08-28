@@ -3,7 +3,7 @@
 | [Blockchain](#blockchain) | [Bitcoin](#Bitcoin) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
 
 ## Blockchain 
-- [white papers] (https://whitepaperdatabase.com/)
+- [white papers](https://whitepaperdatabase.com/)
 - [Blockchain Platforms analysis](https://github.com/mankenavenkatesh/blockchain-platforms)
 
 ## Ethereum 
