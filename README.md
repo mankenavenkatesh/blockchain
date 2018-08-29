@@ -4,7 +4,7 @@
 
 ## Blockchain 
 - [white papers](https://whitepaperdatabase.com/)
-- [Blockchain Platforms analysis](https://github.com/mankenavenkatesh/blockchain-platforms)
+- [Blockchain internals](https://github.com/mankenavenkatesh/blockchain-internals)
 
 ## Ethereum 
 #### My Dapps
