@@ -5,6 +5,7 @@
 ## Blockchain 
 - [white papers](https://whitepaperdatabase.com/)
 - [Blockchain internals](https://github.com/mankenavenkatesh/blockchain-internals)
+- [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## Ethereum 
 #### My Dapps
@@ -43,7 +44,7 @@
 
 
 #### My Learnings of Ethereum protocol.
-- [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
+
 
 
 #### My References
