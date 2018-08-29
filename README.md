@@ -3,8 +3,8 @@
 | [Blockchain](#blockchain) | [Bitcoin](#Bitcoin) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
 
 ## Blockchain 
-- [white papers](https://whitepaperdatabase.com/)
 - [Blockchain internals](https://github.com/mankenavenkatesh/blockchain-internals)
+- [white papers](https://whitepaperdatabase.com/)
 - [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## Ethereum 
