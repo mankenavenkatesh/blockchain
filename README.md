@@ -42,11 +42,6 @@
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/Standard-Smart-Contracts)
 - [Solidity Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
 
-
-#### My Learnings of Ethereum protocol.
-
-
-
 ## Hyperledger
 #### My References
 - https://github.com/mankenavenkatesh/awesome-hyperledger-fabric
