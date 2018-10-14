@@ -7,10 +7,6 @@
 - [white papers](https://whitepaperdatabase.com/)
 - [Different Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
-## Hyperledger
-#### My References
-- https://github.com/mankenavenkatesh/awesome-hyperledger-fabric
-
 ## Ethereum 
 #### My Dapps
 - [CrowdLending - Blockchain based Crowd Lending and Borrowing Platform for Individuals, ICO's, Governments etc](https://github.com/mankenavenkatesh/CrowdLending)
@@ -48,6 +44,12 @@
 
 
 #### My Learnings of Ethereum protocol.
+
+
+
+## Hyperledger
+#### My References
+- https://github.com/mankenavenkatesh/awesome-hyperledger-fabric
 
 
 
