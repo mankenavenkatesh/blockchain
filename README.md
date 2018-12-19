@@ -1,6 +1,6 @@
 # My Work On Blockchain</p>
 
-| [Blockchain](#blockchain) | [Bitcoin](#Bitcoin) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger)
+| [Blockchain](#blockchain) | [Bitcoin](#Bitcoin) | [Ethereum](#ethereum) | [Hyperledger](#hyperledger) | [Tron](#tron)
 
 ## Blockchain 
 - [Blockchain internals](https://github.com/mankenavenkatesh/blockchain-internals)
@@ -45,6 +45,13 @@
 ## Hyperledger
 #### My References
 - https://github.com/mankenavenkatesh/awesome-hyperledger-fabric
+
+## Tron
+
+#### My Dapps
+- [Sample tron Dapp](https://github.com/mankenavenkatesh/tron-sample-dapp)
+#### My References
+- https://medium.com/tron-foundation/how-to-build-a-tron-dapp-5d377cd12061
 
 
 
