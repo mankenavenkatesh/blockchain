@@ -30,6 +30,9 @@
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/mankenavenkatesh/india-training)
 
+#### My Talks
+- [Talk at Nit Raipur - Codeutsava hackathon](https://github.com/mankenavenkatesh/codeutsava)
+
 #### My Consensys Mesh kick-starters
 - [Simple Demo Contract Using Truffle](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/truffle-kick-starter)
 - [Simple Demo DApp Using truffle, Plain html, uPort](https://github.com/mankenavenkatesh/Consensys-mesh-kick-starters/tree/master/uport-kick-starter)
