@@ -45,6 +45,17 @@
 - [Standard Contract Types and Examples](https://github.com/mankenavenkatesh/Standard-Smart-Contracts)
 - [Solidity Security Vulnerabilities](https://github.com/mankenavenkatesh/Solidity-Security-Vulnerabilities)
 
+## Quorum
+
+#### My Dapps
+- [Sample Quorum Dapp](https://github.com/mankenavenkatesh/tron-sample-dapp)
+#### My References
+- https://github.com/jpmorganchase/quorum
+- https://github.com/jpmorganchase/quorum/wiki/Transaction-Processing
+
+
+
+
 ## Hyperledger
 #### My References
 - https://github.com/mankenavenkatesh/awesome-hyperledger-fabric
